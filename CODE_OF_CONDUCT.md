@@ -71,11 +71,17 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 9. Contact info
+## 9. Weapons Policy
+
+No weapons are allowed at Dev Edmonton Society events or events of the groups it's supports, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
+
+Attendees are further expected to comply with all provincial and local laws on this matter.
+
+## 10. Contact info
 
 coc-report@devedmonton.com
 
-## 10. License and attribution
+## 11. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
