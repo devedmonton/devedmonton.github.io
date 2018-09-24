@@ -59,12 +59,6 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-## 7. Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the Dev Edmonton Society Board with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-[Policy](https://devedmonton.com/coc-grievance)
-
 ## 8. Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
