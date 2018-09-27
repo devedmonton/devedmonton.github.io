@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of Dev Edmonton Society is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and any personal characteristics protected under [the Alberta Human Rights Act](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwjcx9-av8LdAhWnxVQKHcBsAOQQFjADegQICxAC&url=http%3A%2F%2Fwww.qp.alberta.ca%2Fdocuments%2FActs%2FA25P5.pdf&usg=AOvVaw2SRTsLqFGPFeD2iQ9MC9AJ).
+A primary goal of Dev Edmonton Society is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and any personal characteristics protected under [the Alberta Human Rights Act](http://www.qp.alberta.ca/documents/Acts/A25P5.pdf).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
