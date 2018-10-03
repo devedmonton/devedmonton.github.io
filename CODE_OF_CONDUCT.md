@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of Dev Edmonton Society is to be inclusive to the largest number of people, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and any personal characteristics protected under [the Alberta Human Rights Act](http://www.qp.alberta.ca/documents/Acts/A25P5.pdf).
+Dev Edmonton Society's mission is to build an impactful, diverse, and collaborative developer community. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and any personal characteristics protected under [the Alberta Human Rights Act](http://www.qp.alberta.ca/documents/Acts/A25P5.pdf).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -46,6 +46,8 @@ The following behaviors are considered harassment and are unacceptable within ou
 ## 5. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+
+In an effort to build a more collaborative and inclusive community, we always endevour to resolve disputes and conduct violations through education, dialog, and respectful communication. People who demonstrate a sincere effort to change behaviour will be given a reasonable opportunity to do so, and having done so to participate in the community, but continued violations will not be tolerated and may result in further actions at the discretion of the community organizers.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
