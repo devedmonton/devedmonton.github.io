@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of Dev Edmonton Society is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and any personal characteristics protected under [the Alberta Human Rights Act](http://www.qp.alberta.ca/documents/Acts/A25P5.pdf).
+A primary goal of Dev Edmonton Society is to be inclusive to the largest number of people, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, religion (or lack thereof) and any personal characteristics protected under [the Alberta Human Rights Act](http://www.qp.alberta.ca/documents/Acts/A25P5.pdf).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -61,7 +61,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (people, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
@@ -71,11 +71,11 @@ No weapons are allowed at Dev Edmonton Society events or events of the groups it
 
 Attendees are further expected to comply with all provincial and local laws on this matter.
 
-## 7. Contact info
+## 9. Contact info
 
 conduct@devedmonton.com
 
-## 11. License and attribution
+## 10. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
