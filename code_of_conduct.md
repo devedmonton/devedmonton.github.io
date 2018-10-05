@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Code of Conduct"
+---
+
 # Code of Conduct
 
 ## 1. Purpose
