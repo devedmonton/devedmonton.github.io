@@ -35,7 +35,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-watch (2.1.1)
+    jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.1)
@@ -69,4 +69,4 @@ DEPENDENCIES
   rake (~> 12.0)
 
 BUNDLED WITH
-   1.16.6
+   1.17.1
