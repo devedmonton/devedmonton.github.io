@@ -32,6 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 https://jekyllrb.com/docs/installation/
 
+Build the gem with `gem build dev-edmonton-theme.gemspec`
+
 To run the site locally run `jekyll serve`, you can leave the site running locally while you make changes.
 
 Them files are in
@@ -41,7 +43,6 @@ Them files are in
 - _sites
 - assets
 
-Run `gem build dev-edmonton-theme.gemspec` to rebuild the theme gem.
 
 ### Support or Contact
 
