@@ -23,6 +23,8 @@ We're also looking for sponsors to help provide food and other materials to the 
 
 [BECOME A SPONSOR](https://docs.google.com/presentation/d/e/2PACX-1vShZqMi3yoW1YChIYJHjck4H09HNiWG5FLS_QEOe3W_Ras_jQ-tZT7ddgnar4dMyr7gmM7GoBkIZQkb/pub?start=false&loop=false&delayms=3000)
 
+We're planning everything in the open in the #dev-edmonton-society channel on our Slack, and in [our planning document](https://docs.google.com/document/d/1gedIjOOoAM_ZCIqUATUVpSk5TfLRKttQhb6uNwk0A_Q/edit?usp=sharing). If you want to help out then hop on Slack and speak up, or pick a task from the top of the planning doc and put your name next to it.
+
 ## Join us on Slack
 
 Chat with developers and folks in the Edmonton tech community, [you can join here](https://devedmonton-invite.herokuapp.com/)
