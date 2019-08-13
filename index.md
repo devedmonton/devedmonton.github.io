@@ -6,6 +6,10 @@ We are made up of people who believe that an impactful, diverse, and collaborati
 
 ## DevelopEd, August 16-17th 2019
 
+**Do you care about the software development scene in Edmonton? This is your chance to get involved and make it better!**
+
+DevelopEd provides a unique face-to-face venue to kick start new sustainable projects throughout the rest of the year. The success of the event will be measured in terms of what was accomplished, not what was planned or discussed, so come prepared to roll up your sleeves.
+
 [Join the waitlist and find out more!](./developed2019.html)
 
 ## Join us on Slack
