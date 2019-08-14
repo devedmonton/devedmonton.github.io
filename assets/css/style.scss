@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#skip-to-content {
+    display: none;
+}
+
+.page-header {
+    background-image: url(/assets/images/edmonton_skyline.jpg);
+    background-size: cover;
+
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+}
