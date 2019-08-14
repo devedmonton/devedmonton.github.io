@@ -34,6 +34,8 @@ Friday night attendees gather, socialize and start planning, then Saturday we pi
 
 ### Important Times
 
+*All events are taking place at [Startup Edmonton](https://goo.gl/maps/6Pv1Bt1pSftNvSxY9), located at 10359 104 St NW, unit #301*
+
 | Date                 | Time  | Description                               |
 |----------------------|-------|-------------------------------------------|
 | Friday August 13th   | 17:00 | Doors and registration open, food arrives |
