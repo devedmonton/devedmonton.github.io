@@ -114,6 +114,36 @@ Parking is available on the street and in lots throughout downtown. You'll find 
 
 Startup Edmonton is also accessible by bus, train or bike. Please consult [the ETS trip planner](http://etstripplanner.edmonton.ca/) or [Google Maps](https://goo.gl/maps/tXM5uKMvnDF4tXMAA) for current transit information and times.
 
+#### Bring A Donation
+
+Startup Edmonton is collecting donations for the [United Way's Tools For Schools Program](https://www.toolsforschool.ca/). If you'd like to support us, consider bringing some school supplies with you. Here's a list of what they're looking for.
+
+##### Kindergarten - Grade 3
+- Erasers
+- Glue sticks
+- Pencil box
+- Pencil crayons
+- Pencils
+- Washable markers
+- Wax crayons
+
+##### Grade 4 - Grade 6
+- Blue pens
+- Erasers
+- Glue sticks
+- Highlighters
+- Pencil case
+- Pencil crayons
+- Pencils
+
+##### Grade 7 - Grade 12
+- Blue pens
+- Erasers
+- Highlighters
+- Pencil case
+- Pencils
+- Rulers
+
 ---
 
 ## When You Arrive
