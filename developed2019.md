@@ -38,11 +38,11 @@ Friday night attendees gather, socialize and start planning, then Saturday we pi
 
 | Date                 | Time  | Description                               |
 |----------------------|-------|-------------------------------------------|
-| Friday August 13th   | 17:00 | Doors and registration open, food arrives |
+| Friday August 16th   | 17:00 | Doors and registration open, food arrives |
 |                      | 17:30 | Orientation & introductions               |
 |                      | 18:30 | Wrap-up                                   |
 |                      |       |                                           |
-| Saturday August 14th | 08:00 | Doors open, food arrives                  |
+| Saturday August 17th | 08:00 | Doors open, food arrives                  |
 |                      | 08:00 | Pitches start going up on wall            |
 |                      | 08:50 | Pitching ends                             |
 |                      | 09:00 | Orientation                               |
