@@ -10,7 +10,7 @@ DevelopEd brings Edmonton's developer community together to solve problems that 
 
 This unique face-to-face venue is a spring board to kickstart new sustainable projects throughout the rest of the year. Success will be measured in terms of what was accomplished, not what was planned or discussed, so come prepared to roll up your sleeves!
 
-A huge thank you to DotDash and all our other [TODO! generous sponsors](), without whom this event wouldn't be possible!
+A huge thank you to DotDash and all our other [generous sponsors](#sponsors), without whom this event wouldn't be possible!
 
 ## TLDR;
 
@@ -155,17 +155,39 @@ Did we mention there will be stickers? So as not to crowd the venue we'll provid
 
 ---
 
-### After The Event
+## After The Event
+
+DevelopEd is meant to grow the Edmonton developer community, and to start new projects, so things don't really end when everyone goes home. There are lots of ways to carry on the work you start here, and to make Edmonton the city you want it to be.
+
 #### Stay In Touch
+
+Get active on the [Dev Edmonton Society Slack](https://devedmonton-invite.herokuapp.com/), come out to [events at Startup Edmonton](https://meetup.com/startupedmonton) and elsewhere, and exchange social media and contact information with other attendees. If there was someone who's name or email you missed please contact developed@devedmonton.com and we'll pass on your information to them.
+
 #### Share Feedback
 
+As this is our first iteration of DevelopEd, you can consider yourself a beta tester, so feedback and suggestions are welcome. Reach out at developed@devedmonton.com!
+
 ### Getting In Touch
-Questions, feedback, conduct. Email, Slack or in person.
+
+Should you have questions, feedback, or concerns you can reach us by email to developed@devedmonton.com, [on Slack](https://devedmonton-invite.herokuapp.com/), or in person.
+
+---
 
 ### Sponsors
 
+A huge thank you to all our sponsors for their support in planning and hosting this event. Your support makes a difference in the community. It is appreciated!
+
 #### Gold
+
+* DotDash
 
 #### Silver
 
+* AltaML
+* ScopeAR
+* Startup Edmonton
+* QuoteToMe
+
 #### Bronze
+
+* Helm
