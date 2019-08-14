@@ -116,7 +116,9 @@ Startup Edmonton is also accessible by bus, train or bike. Please consult [the E
 
 #### Bring A Donation
 
-Startup Edmonton is collecting donations for the [United Way's Tools For Schools Program](https://www.toolsforschool.ca/). If you'd like to support us, consider bringing some school supplies with you. Here's a list of what they're looking for.
+Startup Edmonton is collecting donations for the [United Way's Tools For Schools Program](https://www.toolsforschool.ca/). If you'd like to support us, consider bringing some school supplies with you. The collection box is located against the wall behind the check in desk when you reach the top of the Mercer stairs.
+
+Here's a list of what they're looking for.
 
 ##### Kindergarten - Grade 3
 - Erasers
