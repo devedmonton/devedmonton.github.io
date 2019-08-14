@@ -5,13 +5,13 @@
 	"dockerFile": "Dockerfile",
 
 	// Uncomment the next line if you want to publish any ports.
-	// "appPort": [],
+	"appPort": [ 4000 ],
 
 	// Uncomment the next line if you want to add in default container specific settings.json values
 	// "settings":  { "workbench.colorTheme": "Quiet Light" },
 
 	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "ruby --version",
+	"postCreateCommand": "bundle install",
 
 	// Uncomment the next line to use a non-root user. See https://aka.ms/vscode-remote/containers/non-root-user.
 	// "runArgs": [ "-u", "1000" ],
