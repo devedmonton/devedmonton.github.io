@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## DevelopEd, August 16-17th 2019
+![DevelopEd 2019 logo](/assets/images/developed2019/developed2019_logo.png)
+
+## August 16-17th 2019
 
 **TICKETS FOR 2019 ARE SOLD OUT**
 
