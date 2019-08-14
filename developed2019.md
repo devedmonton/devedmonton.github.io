@@ -110,6 +110,10 @@ Please, also note that some people may be working at Startup Edmonton or using t
 
 Startup Edmonton is located downtown in Ice District, on the corner of 104th Street and 104th Ave in the Mercer Building. Doors will be open so come up to the 3rd floor when you arrive.
 
+When you arrive, enter through the glass doors under the green "Startup Edmonton" sign, and take the stairs up to the third level. The door handle on the bright green door on the third floor does not turn, just pull and the door will open!
+
+There is an elevator in the building as well, please reach out to Mark Bennett on the [Dev Edmonton Society Slack](https://devedmonton-invite.herokuapp.com/) for assistance.
+
 Parking is available on the street and in lots throughout downtown. You'll find the best deals a few blocks south of Startup Edmonton but can often get a good rate on weekends. Please be aware that parts of 104th Street will be closed Saturday for the farmer's market.
 
 Startup Edmonton is also accessible by bus, train or bike. Please consult [the ETS trip planner](http://etstripplanner.edmonton.ca/) or [Google Maps](https://goo.gl/maps/tXM5uKMvnDF4tXMAA) for current transit information and times.
