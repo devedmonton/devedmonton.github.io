@@ -201,15 +201,15 @@ DevelopEd is meant to grow the Edmonton developer community, and to start new pr
 
 #### Stay In Touch
 
-Get active on the [Dev Edmonton Society Slack](https://devedmonton-invite.herokuapp.com/), come out to [events at Startup Edmonton](https://meetup.com/startupedmonton) and elsewhere, and exchange social media and contact information with other attendees. If there was someone who's name or email you missed please contact developed@devedmonton.com and we'll pass on your information to them.
+Get active on the [Dev Edmonton Society Slack](https://devedmonton-invite.herokuapp.com/), come out to [events at Startup Edmonton](https://meetup.com/startupedmonton) and elsewhere, and exchange social media and contact information with other attendees. If there was someone who's name or email you missed please contact [developed@devedmonton.com](mailto:developed@devedmonton.com) and we'll pass on your information to them.
 
 #### Share Feedback
 
-As this is our first iteration of DevelopEd, you can consider yourself a beta tester, so feedback and suggestions are welcome. Reach out at developed@devedmonton.com!
+As this is our first iteration of DevelopEd, you can consider yourself a beta tester, so feedback and suggestions are welcome. Reach out at [developed@devedmonton.com](mailto:developed@devedmonton.com)!
 
 ### Getting In Touch
 
-Should you have questions, feedback, or concerns you can reach us by email to developed@devedmonton.com, [on Slack](https://devedmonton-invite.herokuapp.com/), or in person.
+Should you have questions, feedback, or concerns you can reach us by email to [developed@devedmonton.com](mailto:developed@devedmonton.com), [on Slack](https://devedmonton-invite.herokuapp.com/), or in person.
 
 ---
 
