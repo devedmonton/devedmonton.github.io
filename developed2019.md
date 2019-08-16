@@ -100,7 +100,7 @@ If you need anything else please let one of the volunteers know.
 
 DevelopEd is meant to be a welcoming and connecting event, so please, introduce yourself and share your skills and passions with those around you! Try to be like pacman and leave room in your circle for someone new to join!
 
-Part of the society's mission is to build a diverse and welcoming developer community in Edmonton. DevelopEd, and all Dev Edmonton Society events, provide a safe and harrasment free environment to all attendees. If you've questions please read our complete [Code of Conduct](/code_of_conduct.html), speak with one of the event organizers, or reach out to [conduct@devedmonton.com](mailto:conduct@devedmontoncom).
+Part of the society's mission is to build a diverse and welcoming developer community in Edmonton. DevelopEd, and all Dev Edmonton Society events, provide a safe and harrasment free environment to all attendees. If you've questions please read our complete [Code of Conduct](/code_of_conduct.html), speak with one of the event organizers, or reach out to [conduct@devedmonton.com](mailto:conduct@devedmonton.com).
 
 If you see or experience harrasement, or want to report a concern please [reach out](/code_of_conduct.html#6-reporting-guidelines).
 
@@ -162,17 +162,17 @@ To your left as you reach the top of the stairs in the Mercer Building, you'll s
 
 To make everyone feel welcome, we also supply optional pronoun stickers for your name tag. Blue means he/him, red for she/her, and green means check my name tag or ask.
 
-Along with this, we've got the yellow stickers. If you're comfortable with the [code of conduct](/code_of_conduct.html) and are ok with people asking you for help, or just striking up a friendly conversation then stick one of thse on. If you're attending an event for the first time, have a question, or want to chat, then someone with a yellow dot is there to talk. Please remember, if you're in distress or it's an emergency to contact an event organizer.
+Along with this, we've got the yellow stickers. If you're comfortable with the [code of conduct](/code_of_conduct.html) and are okay with people asking you for help, or just striking up a friendly conversation then stick one of these on. If you're attending an event for the first time, have a question, or want to chat, then someone with a yellow dot is there to talk. Please remember, if you're in distress or it's an emergency to contact an event organizer.
 
-Once you're checked in, head on it to the social space!
+Once you're checked in, head on to the social space!
 
 #### Share Your Pitch
 
 As you arrive, it's time to start thinking about your pitch and the project you'd like to champion. When you're ready find a piece of paper and some tape, then stick your idea up on pitch wall so people can vote on it. We'll also set aside some brief time on Saturday morning for you to share a one-minute pitch in person.
 
-#### Get On The Wifi
+#### Get On The WiFi
 
-We all know that WiFi is essential at events like these, and Startup Edmonton now has a solid fiber optic connection ready!
+We all know that WiFi is essential at events like these, and Startup Edmonton now has a solid fibre optic connection ready!
 
 **SSID:** Startup_Edmonton  
 **PASS:** Community1
@@ -201,15 +201,15 @@ DevelopEd is meant to grow the Edmonton developer community, and to start new pr
 
 #### Stay In Touch
 
-Get active on the [Dev Edmonton Society Slack](https://devedmonton-invite.herokuapp.com/), come out to [events at Startup Edmonton](https://meetup.com/startupedmonton) and elsewhere, and exchange social media and contact information with other attendees. If there was someone who's name or email you missed please contact developed@devedmonton.com and we'll pass on your information to them.
+Get active on the [Dev Edmonton Society Slack](https://devedmonton-invite.herokuapp.com/), come out to [events at Startup Edmonton](https://meetup.com/startupedmonton) and elsewhere, and exchange social media and contact information with other attendees. If there was someone who's name or email you missed please contact [developed@devedmonton.com](mailto:developed@devedmonton.com) and we'll pass on your information to them.
 
 #### Share Feedback
 
-As this is our first iteration of DevelopEd, you can consider yourself a beta tester, so feedback and suggestions are welcome. Reach out at developed@devedmonton.com!
+As this is our first iteration of DevelopEd, you can consider yourself a beta tester, so feedback and suggestions are welcome. Reach out at [developed@devedmonton.com](mailto:developed@devedmonton.com)!
 
 ### Getting In Touch
 
-Should you have questions, feedback, or concerns you can reach us by email to developed@devedmonton.com, [on Slack](https://devedmonton-invite.herokuapp.com/), or in person.
+Should you have questions, feedback, or concerns you can reach us by email to [developed@devedmonton.com](mailto:developed@devedmonton.com), [on Slack](https://devedmonton-invite.herokuapp.com/), or in person.
 
 ---
 
