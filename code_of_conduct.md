@@ -48,7 +48,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
-*   Collecting or sharing personal information (including names, emails, nicks, messages, emails, or other biographical or identifying information) without explicit and prior consent.
+*   Collecting or sharing personal information (including names, emails, avatars, handles, nicknames, messages, emails, or other biographical or identifying information) without explicit and prior consent.
 
 ## 5. Consequences of Unacceptable Behavior
 
