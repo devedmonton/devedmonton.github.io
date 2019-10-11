@@ -70,7 +70,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Scope
 
-We expect all community participants (people, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business. This Code of Conduct applies online (including Slack, email, forums) and offline.
+We expect all community participants (people, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business. This Code of Conduct applies online (including but not limited to Slack, chats, instant messaging, message boards,  email, forums, comments) and offline.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
