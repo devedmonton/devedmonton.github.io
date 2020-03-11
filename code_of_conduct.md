@@ -31,6 +31,7 @@ The following behaviors are expected and requested of all community members:
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech.
 *   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 *   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+*   Respect the privacy and dignity of other members and the public. Treat the information of others as you'd like yours to be treated.
 
 ## 4. Unacceptable Behavior
 
@@ -47,6 +48,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
+*   Collecting or sharing personal information (including names, emails, avatars, handles, nicknames, messages, emails, or other biographical or identifying information) without explicit and prior consent.
 
 ## 5. Consequences of Unacceptable Behavior
 
@@ -68,7 +70,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Scope
 
-We expect all community participants (people, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (people, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business. This Code of Conduct applies online (including but not limited to Slack, chats, instant messaging, message boards,  email, forums, comments) and offline.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
