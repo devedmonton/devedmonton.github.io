@@ -12,4 +12,6 @@ This years event is sold out. [Find out more.](/developed2019.html)
 
 ## Join us on Slack
 
+[![Slack Logo](slack_logo.jpg)](https://devedmonton-invite.herokuapp.com/)
+
 Chat with developers and folks in the Edmonton tech community, [you can join here](https://devedmonton-invite.herokuapp.com/)
