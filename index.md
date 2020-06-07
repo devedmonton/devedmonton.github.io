@@ -6,7 +6,7 @@ We are made up of people who believe that an impactful, diverse, and collaborati
 
 ## Join us on Slack
 
-[![Slack Logo](slack_logo.jpg)](https://devedmonton-invite.herokuapp.com/)
+[![Slack Logo](/assets/images/slack_logo.jpg)](https://devedmonton-invite.herokuapp.com/)
 
 Chat with developers and folks in the Edmonton tech community, [you can join here](https://devedmonton-invite.herokuapp.com/)
 
