@@ -17,3 +17,5 @@ Chat with developers and folks in the Edmonton tech community, [you can join her
 #### [Digital Ocean](https://www.digitalocean.com/)
 
 Thank you for the generous hosting support!
+
+[![Digital Ocean Logo](/assets/images/sponsors/DO_Powered_by_Badge_blue.png)](https://digitalocean.com)
